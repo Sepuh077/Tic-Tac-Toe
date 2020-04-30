@@ -6,8 +6,8 @@ win=pygame.display.set_mode((500,600))
 pygame.display.set_caption("Tic-Tac-Toe")
 
 board=pygame.image.load('board0.jpg')
-xPhoto=pygame.image.load('X.jpg')
-OPhoto=pygame.image.load('0.jpg')
+xPhoto=pygame.image.load('X.png')
+OPhoto=pygame.image.load('0.png')
 
 
 hert=[]
